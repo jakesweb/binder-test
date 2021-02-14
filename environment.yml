@@ -12,6 +12,7 @@ dependencies:
   - astropy
   - gammapy
   - healpy
+  - ipython
   - pip
   - pip:
       - fermipy
